@@ -1,0 +1,3 @@
+com.hzdingmao.centre.api.factory.RemoteUserFallbackFactory
+com.hzdingmao.centre.api.factory.RemoteLogFallbackFactory
+com.hzdingmao.centre.api.factory.RemoteFileFallbackFactory

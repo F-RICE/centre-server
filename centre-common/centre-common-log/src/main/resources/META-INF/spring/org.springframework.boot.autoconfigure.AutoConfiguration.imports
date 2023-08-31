@@ -1,0 +1,2 @@
+com.hzdingmao.centre.log.service.AsyncLogService
+com.hzdingmao.centre.log.aspect.LogAspect

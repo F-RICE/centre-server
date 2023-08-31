@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.hzdingmao.centre</groupId>
+        <artifactId>centre</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>centre-common-log</module>
+        <module>centre-common-core</module>
+        <module>centre-common-redis</module>
+        <module>centre-common-seata</module>
+        <module>centre-common-swagger</module>
+        <module>centre-common-security</module>
+        <module>centre-common-datascope</module>
+        <module>centre-common-datasource</module>
+    </modules>
+
+    <artifactId>centre-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        centre-common通用模块
+    </description>
+
+</project>

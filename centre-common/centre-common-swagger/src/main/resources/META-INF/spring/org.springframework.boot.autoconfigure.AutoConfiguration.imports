@@ -1,0 +1,3 @@
+# com.hzdingmao.centre.swagger.config.SwaggerAutoConfiguration
+# com.hzdingmao.centre.swagger.config.SwaggerWebConfiguration
+# com.hzdingmao.centre.swagger.config.SwaggerBeanPostProcessor
